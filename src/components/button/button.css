@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+#botao_container {
+    width: 96%;
+    display: flex;
+    justify-content: end;
+}
+
+#button {
+    width: 200px;
+    height: 60px;
+    background-color: gold;
+    color: black;
+    padding: 8px 10px;
+    cursor: pointer;
+    transition: .8s;
+    font-size: 18px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    margin-top: 25px;
+}
+
+#button:hover {
+    background-color: black;
+    color: gold;
+
+}

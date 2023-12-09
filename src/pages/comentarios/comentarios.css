@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+#titulo_comentarios {
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    margin-left: 5px;
+    background-color: black;
+    color: gold;
+    border-radius: 10px;
+    border-bottom-left-radius: 0;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,27 @@
+.texto_contatos {
+    width: 70%;
+    height: 400px;
+    padding: 7px;
+    background-color: black;
+    border-radius: 10px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+#titulo_text_area {
+    color: white;
+}
+
+textarea {
+    width: 95%;
+    height: 85%;
+    background-color: aliceblue;
+    border-radius: 4px;
+    box-shadow: 3px 2px 5px rgba(187, 187, 187, 0.6);
+}
+
+@media (max-width: 480px) {
+    .texto_contatos {
+        width: 96%;
+        height: 250px;
+    }
+}

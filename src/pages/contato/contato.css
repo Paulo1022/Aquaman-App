@@ -1,0 +1,20 @@
+form {
+    margin-left: 20px;
+}
+
+.contatos_container {
+    width: 96%;
+    height: 420px;
+    display: flex;
+}
+
+@media (max-width: 480px) {
+    form {
+        margin-left: 2%;
+    }
+
+    .contatos_container {
+        height: 620px;
+        display: block;
+    }
+}
