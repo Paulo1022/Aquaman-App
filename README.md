@@ -21,4 +21,4 @@ linha de código 3
 
 para criar uma linha horizontal separadora usa-se 3 tracinhos -
 
-# FAZER UM README PRA CADA PROJETO (repositório) APRESENTANDO O PROEJTO, OQ É E COMO RODAR NA SUA MÁQUINA (isso é bom pra mim mesmo caso eu venha olhar isso anos depois e não lembre de mais nada)
+# FAZER UM README PRA CADA PROJETO (repositório) APRESENTANDO O PROEJTO, OQ É, TECNOLOGIAS USADAS (E VERSÃO) E COMO RODAR NA SUA MÁQUINA (isso é bom pra mim mesmo caso eu venha olhar isso anos depois e não lembre de mais nada)
