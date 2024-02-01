@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# Para texto grande e negrito (bom para títulos de seção), usar "#"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Para subititulo ou subseção, usar "##"
 
-## Available Scripts
+### para uma sub-subceção, usar "###"
 
-In the project directory, you can run:
+Para criar um link, inserir o texto clicável entre colchetes e o link entre parentesis logo em seguida sem espaços [Create React App](https://github.com/facebook/create-react-app)
 
-### `npm start`
+Para falar de um trecho de código pequeno (1 comando só) usar apóstofos `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para falar de um trecho maior com mais linhas, usar 3 apóstofos no início e mais 3 no fim 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```
+linha de código 1
+linha de código 2
+linha de código 3
+```
+~como riscar a linha é só botar o texto entr tils~ *e em itálico entre asteriscos*
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+para criar uma linha horizontal separadora usa-se 3 tracinhos -
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# FAZER UM README PRA CADA PROJETO (repositório) APRESENTANDO O PROEJTO, OQ É E COMO RODAR NA SUA MÁQUINA (isso é bom pra mim mesmo caso eu venha olhar isso anos depois e não lembre de mais nada)
