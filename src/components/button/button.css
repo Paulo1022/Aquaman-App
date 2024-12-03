@@ -3,7 +3,7 @@
 #botao_container {
     width: 96%;
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 #button {
