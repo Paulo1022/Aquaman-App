@@ -23,7 +23,9 @@ function Trailer() {
                         diferenças para proteger seu reino, salvar sua família e o mundo de uma 
                         destruição irreversível.”
                     </p>
-                    <button className="button">Comprar Ingresso</button>
+                    <a href="https://www.ingresso.com/filme/aquaman-2-o-reino-perdido" target="_blank" rel="noreferrer">
+                        <button className="button" >Comprar Ingresso</button>
+                    </a>
                 </div>
             </div>
         </div>
